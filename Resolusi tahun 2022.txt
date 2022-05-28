@@ -1,6 +1,10 @@
 Daftar resolusitahun 2022 :
 1. Membuat update materi mata kuliah kecerdasan buatan
-2. Membuat latihan machine learning
+2. Membuat latihan machine learning 
+a.
+b.
+c.
+d.
 3. Membuat bahan ajar video mata kuliah kecerdasan buatan
 
 
